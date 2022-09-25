@@ -26,7 +26,7 @@ Repository|Description
 [Kal's XIV API](https://github.com/kalilistic/kal-xiv-api)|Lookup player lodestone ids and more.
 [Klondike](https://github.com/kalilistic/klondike)|Compact ACT Plugin DPS overlay.
 
-### Other Projects
+## Other Projects
 
 ### General Libraries
 Repository|Description
