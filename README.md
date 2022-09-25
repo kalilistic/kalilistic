@@ -16,8 +16,9 @@ Repository|Description
 ### Dalamud Libraries
 Repository|Description
 ---|---
-[Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities to use in dalamud plugins. 
-[Dalamud.Loc](https://github.com/kalilistic/Dalamud.Loc)|Plugin localization utility.
+[Dalamud.ContextMenu](https://github.com/kalilistic/Dalamud.ContextMenu)|Use context menus in dalamud plugins.
+[Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities to use in dalamud plugins.
+[Dalamud.Loc](https://github.com/kalilistic/Dalamud.Loc)|Localize dalamud plugins.
 
 ### Other Works
 Repository|Description
