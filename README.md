@@ -18,7 +18,6 @@ Repository|Description
 ---|---
 [Dalamud.ContextMenu](https://github.com/kalilistic/Dalamud.ContextMenu)|Use in-game context menus.
 [Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities.
-[Dalamud.FlexImGui](https://github.com/kalilistic/Dalamud.FlexImGui)|Config-backed ImGui components.
 [Dalamud.Loc](https://github.com/kalilistic/Dalamud.Loc)|Localize your strings.
 
 ### Other Works
