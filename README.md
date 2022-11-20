@@ -12,6 +12,7 @@ Repository|Description
 [PriceCheck](https://github.com/kalilistic/PriceCheck)|Check market board prices from universalis.
 [SillyChat](https://github.com/kalilistic/SillyChat)|Translate player and NPC chat messages to funny things.
 [Tippy](https://github.com/kalilistic/Tippy)|The best assistant you never needed.
+[YASP](https://github.com/kalilistic/YetAnotherSamplePlugin)|Yet another sample plugin.
 
 ### Dalamud Libraries
 Repository|Description
