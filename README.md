@@ -28,7 +28,8 @@ Repository|Description
 
 ## Other Projects
 
-### General Libraries
+### Libraries
 Repository|Description
 ---|---
-[FlexConfig](https://github.com/kalilistic/FlexConfig)|Dynamic configuration library to use with .net projects.  
+[FlexConfig](https://github.com/kalilistic/FlexConfig)|Dynamic configuration library to use with .net projects.
+[LiteHelper](https://github.com/kalilistic/LiteHelper)|Helper library for working with LiteDB.
