@@ -13,14 +13,12 @@ Repository|Description
 ### Dalamud Libraries
 Repository|Description
 ---|---
-[Dalamud.ContextMenu](https://github.com/kalilistic/Dalamud.ContextMenu)|Use in-game context menus.
 [Dalamud.DrunkenToad](https://github.com/kalilistic/Dalamud.DrunkenToad)|Common utilities.
 [Dalamud.Loc](https://github.com/kalilistic/Dalamud.Loc)|Localize your strings.
 
 ### Other Works
 Repository|Description
 ---|---
-[Kal's XIV API](https://github.com/kalilistic/kal-xiv-api)|Lookup player lodestone ids and more.
 [Klondike](https://github.com/kalilistic/klondike)|Compact ACT Plugin DPS overlay.
 
 ## Other Projects
