@@ -6,7 +6,6 @@
 ### Dalamud Plugins
 Repository|Description
 ---|---
-[Kapture](https://github.com/kalilistic/Kapture)|Track loot drops, obtained items, rolls, and more.
 [PlayerTrack](https://github.com/kalilistic/PlayerTrack)|Keep a record of who you meet and the content you played together.
 [PriceCheck](https://github.com/kalilistic/PriceCheck)|Check market board prices from universalis.
 
